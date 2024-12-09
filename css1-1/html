@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ka">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="New Text Document (4).css">
+        <title>css1-1</title>
+    </head>
+    <body>
+        <h1>Last Summer Sale</h1>
+
+        <div id="text">Don’t miss this amazing chance!</div>
+
+        <div id="text2">Take advantage of our exclusive offer and get your 
+            favorite products at incredible discounts.</div>
+
+        <div id="text3">The end of season sale is here, with up to <div id="text4">70%</div> off on a wide range 
+            of items.</div>
+
+        <div id="text5">Hurry, this opportunity won’t last long-shop now and save big!</div>
+
+        <div id="text6"><img src="images/4bc9cd5c5d4f8388ba667ec6aa1930ae (1).png"></div>
+    </body>
+</html>
